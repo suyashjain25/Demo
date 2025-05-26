@@ -1,3 +1,3 @@
 # Demo
 This is my first Git repository <br>
-Author - Suyash Jain
+Author-Suyash Jain 
